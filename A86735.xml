@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble declaration, tender, and petition of divers cordiall and wel-affected marriners, whose names are subscribed, to the Right Honourable the Lords and Commons assembled in Parliament. VVith the several answers given to the said petition.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86735</idno><idno type="EEBO-CITATION">99864663</idno>
+  <idno type="VID">161926</idno>
+  <idno type="EEBO-PROQUEST">2240905125</idno>
+  
+            <idno type="STC">Wing H3408</idno>
+            <idno type="STC">Thomason E451_10</idno>
+            <idno type="PROQUEST">99864663</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864663e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161926)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble declaration, tender, and petition of divers cordiall and wel-affected marriners, whose names are subscribed, to the Right Honourable the Lords and Commons assembled in Parliament. VVith the several answers given to the said petition.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for Henry Overton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161926:1"/>
+            <p>The humble DECLARATION, Tender, and PETITION Of divers cordiall and wel-affected Marriners, whose names are sub<g ref="char:EOLhyphen"/>scribed, To the Right Honoura<g ref="char:EOLhyphen"/>ble the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in Parliament.</p>
+            <p>VVith the severall Answers given to the said PETITION.</p>
+            <p>Printed at London for <hi>Henry Overton,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:161926:2"/>
+            <pb n="3" facs="tcp:161926:2"/>
+            <head>The humble Declaration, tender, and Petition of divers cordiall and well-affected Marriners, whose names are subscribed, be<g ref="char:EOLhyphen"/>ing Commanders of Ships, and Members of the <hi>Trinity House.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the present, sad, and fresh bleeding condition of this distressed Kingdome, the many ways of force and treachery which are conti<g ref="char:EOLhyphen"/>nually attempted to bring to utter ruine and destruction this Parliament, and their Forces by Land &amp; Sea; the late defection of some Marriners trusted and employ<g ref="char:EOLhyphen"/>ed by the Parliament in divers ships set forth for safe<g ref="char:EOLhyphen"/>ty of the Kingdome: and the proceedings thereupon will not suffer the Petitioners to be longer silent, and therefore in discharge of their duty to Almighty God, and to the King, Parliament, and Kingdome, they do humbly declare,</p>
+            <pb n="4" facs="tcp:161926:3"/>
+            <p>That the Petitioners are most unfainedly thankfull for this Parliaments zealous endeavouring the pub<g ref="char:EOLhyphen"/>lique setlement, and for giving direction that in or<g ref="char:EOLhyphen"/>der to the safety of the Kingdome, the encourage<g ref="char:EOLhyphen"/>ment and preservation of trade, and the reduction of the said ships revolted, a convenient Fleet be provi<g ref="char:EOLhyphen"/>ded, and set to Sea, and manned with cordiall and well-affected Marriners (all intimated by the Votes of the Honorable House of Commons, made the 17<seg rend="sup">th.</seg> and by the Lord High Admiral's letter to the Master, Wardens, and Assistants of the <hi>Trinity-house,</hi> dated the 19<seg rend="sup">th.</seg> of <hi>June</hi> last.</p>
+            <p>That although the Petitioners do most heartily de<g ref="char:EOLhyphen"/>sire a right understanding and happy reconcilement betwixt the King &amp; Parliament, yet it is far from their intention, (and they hope of any others that have lately petitioned for a personall Treaty) to make use of the said revolt, or of any other streights, the Par<g ref="char:EOLhyphen"/>liament are, or may be in, to precipitate their coun<g ref="char:EOLhyphen"/>cels, or to destroy their Forces, being (as they hum<g ref="char:EOLhyphen"/>bly conceive) contrary to the Protestation taken in or about <hi>May</hi> 1641. the Vow taken in, or about <hi>June,</hi> and the Covenant taken in or about <hi>Feb.</hi> 1643. as also to necessitate the Parliament to that treaty, be<g ref="char:EOLhyphen"/>fore such a foundation of security be laid, as the wis<g ref="char:EOLhyphen"/>dome of the Parliament shall conceive (by the blessing of Almighty God thereupon) to be fully sufficient for the preservation of themselves, and of all that have ad<g ref="char:EOLhyphen"/>hered to them, from destruction in, and after that treaty: and for the reformation of Religion, and for the maintenance and defence of lawes and liberties, for all which, so much blood and treasure hath been spilt and spent.</p>
+            <pb n="5" facs="tcp:161926:3"/>
+            <p>That the constant valour and fidelity of <hi>English</hi> Marriners (Commanders and others) have encoura<g ref="char:EOLhyphen"/>ged this, and all other Nations, with whom we have any commerce, as well <hi>Jewes, Turks, Heathens,</hi> as <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> to put their persons and estates into their pow<g ref="char:EOLhyphen"/>er and possession, having found them alwayes valiant to defend both the one and the other, and faithfull in discharge of their trust to those that employ them, whether friends or foes, which hath much advanced the wealth, strength, honour and safety of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But that now the valour and fidelity of <hi>English</hi> Mar<g ref="char:EOLhyphen"/>riners is of late much blemished, by those who are revolted in the said ships, and those who have encou<g ref="char:EOLhyphen"/>raged them thereunto, and yet have neither publique<g ref="char:EOLhyphen"/>ly exprest their utter detestation, nor resolution with their lives and estates (according to their Covenant) to endeavour the reducing those revolters.</p>
+            <p>Moreover, that the Petitioners (to take off those blemishes, and to preserve the honour of the <hi>English</hi> Nation) doe not only disavow the having any hand in that revolt, but abhorre and detest that unparallel'd breach of trust, as most destructive to Trade, and the Navigation of this Kingdome, and to all the faith<g ref="char:EOLhyphen"/>full Marriners and others who have their dependency thereupon; the consideration whereof doth engage the Petitioners promise, that they will use their ut<g ref="char:EOLhyphen"/>most endeavours, with their lives and estates (accor<g ref="char:EOLhyphen"/>ding to their Covenant, when called thereunto) for the reducing the said revolters to their duty, in such a way as the wisdome of the Parliament shall direct, and doubt not (whatsoever hath been suggested to the
+<pb n="6" facs="tcp:161926:4"/>contrary:) but there are many other Marriners in this Kingdome, will be most ready and willing to doe the like.</p>
+            <p>
+               <hi>THe Petitioners therfore do hum<g ref="char:EOLhyphen"/>bly pray, that the vote of the Ho<g ref="char:EOLhyphen"/>nourable house of Commons (made the</hi> 17<seg rend="sup">th.</seg>
+               <hi>of</hi> June <hi>last, for the provi<g ref="char:EOLhyphen"/>ding as great a Fleet, manned with cordiall and wel-affected men as the Parliament shall think fit, with all possible expedition for the safety of the Kingdom, and reducing the said revolters) may be vigourously put in execution.</hi>
+            </p>
+            <closer>And your Petitioners as in duty bound, shall pray, &amp;c.</closer>
+         </div>
+         <div type="acknowledgment_of_petition">
+            <pb n="7" facs="tcp:161926:4"/>
+            <head>Die Mercurij, <hi>5. July, 1648.</hi>
+            </head>
+            <p>THe Lords have commanded me to give you hearty thanks for your great expressions of your fidelity and good affections to the Parliament: and they desire you still to continue your care and endeavours for the reducing of the revolted Marriners to their obedience to the Parliament. And they desire you to be confident, that their Lordships will improve their utmost endea<g ref="char:EOLhyphen"/>vours for the procuring of a safe and well-grounded Peace.</p>
+            <closer>
+               <signed>John Brown, Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petition">
+            <p>THe House being informed that the Sea-men and Marriners, Commanders of ships, &amp; Members of the <hi>Trinity House</hi> were at the doore, they were called in, and then presented a Petition; which after the Petitioners were withdrawn, was read, and was intituled. <hi>The humble Declaration, tender, and Petition of divers cordi<g ref="char:EOLhyphen"/>all and well-affected Marriners, being Commanders of ships, and Mem<g ref="char:EOLhyphen"/>bers of the Trinity-House.</hi> And the said Petitioners being again cal<g ref="char:EOLhyphen"/>led in, Mr. Speaker by command of the House gave them this Answer.</p>
+            <p>Captain <hi>Moulton,</hi> and the rest of you, Gentlemen, The House hath read your Petition with much content and satisfaction: and you are to be thanked in a speciall manner. That you have up<g ref="char:EOLhyphen"/>held the honour of the Marriners of the <hi>English</hi> Nation by your fidelity in these times of danger; which those that revolted from their trust, much blemished. And for your good affections, and cordiall expressions the House hath commanded me to give you hearty thankes: and you deserve more then thankes. And the House hath given order that those things that you desire to be put in execution, be put into speedy and effectuall execution.</p>
+            <p>Ordered by the Commons assembled in Parliament, That it be referred to the Lord Admirall and Committee of the Navy, and in the absence of the Lord Admiral to the Committee of the Na<g ref="char:EOLhyphen"/>vy, to see the Votes of this House of the 17<seg rend="sup">th</seg> of <hi>June,</hi> mentioned in the said Petition put in speedy and effectuall execution: and
+<pb n="8" facs="tcp:161926:5"/>also to confer with the Petitioners concerning the Propositions they shall make for the effectuall carrying on of this businesse, in reducing the revolted Ships according to the Ordinance mentio<g ref="char:EOLhyphen"/>ned in the said Petition.</p>
+            <closer>
+               <signed>H. Elsyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="list_of_petitioners">
+            <head>A List of the Subscribers Names.</head>
+            <list>
+               <item>
+                  <hi>Robert Monlson.</hi>
+               </item>
+               <item>
+                  <hi>William Bandirk</hi>
+               </item>
+               <item>
+                  <hi>Richard Foannes</hi>
+               </item>
+               <item>
+                  <hi>John Casby</hi>
+               </item>
+               <item>
+                  <hi>Richard Badiley.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Hawkins.</hi>
+               </item>
+               <item>
+                  <hi>Mich. Packs</hi>
+               </item>
+               <item>
+                  <hi>Thomas Bunton</hi>
+               </item>
+               <item>
+                  <hi>William Wilkinson</hi>
+               </item>
+               <item>
+                  <hi>William Hudduck.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Weymouth.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Busel</hi>
+               </item>
+               <item>
+                  <hi>Rich. Caton.</hi>
+               </item>
+               <item>
+                  <hi>Matth. Winnall</hi>
+               </item>
+               <item>
+                  <hi>John Tompson</hi>
+               </item>
+               <item>
+                  <hi>John Griffin</hi>
+               </item>
+               <item>
+                  <hi>Rich. Brookes</hi>
+               </item>
+               <item>
+                  <hi>John Bundale</hi>
+               </item>
+               <item>
+                  <hi>Tho. Merriot.</hi>
+               </item>
+               <item>
+                  <hi>Robert Blackleech</hi>
+               </item>
+               <item>
+                  <hi>Nathan Buskill</hi>
+               </item>
+               <item>
+                  <hi>John Ewell</hi>
+               </item>
+               <item>
+                  <hi>Wil. Bet.</hi>
+               </item>
+               <item>
+                  <hi>John Pollong</hi>
+               </item>
+               <item>
+                  <hi>Dan. Roswell</hi>
+               </item>
+               <item>
+                  <hi>John Sayer</hi>
+               </item>
+               <item>
+                  <hi>George Paffeild.</hi>
+               </item>
+               <item>
+                  <hi>Jo. Swan</hi>
+               </item>
+               <item>
+                  <hi>James Infelt.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Savey</hi>
+               </item>
+               <item>
+                  <hi>John Broakbonen</hi>
+               </item>
+               <item>
+                  <hi>Stephen Greensmith.</hi>
+               </item>
+               <item>
+                  <hi>William Goodson</hi>
+               </item>
+               <item>
+                  <hi>Phil. Goose.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Gardiner</hi>
+               </item>
+               <item>
+                  <hi>Rich. Hadduckt</hi>
+               </item>
+               <item>
+                  <hi>Hen. Westly</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hewit.</hi>
+               </item>
+               <item>
+                  <hi>Hump. Bennet.</hi>
+               </item>
+               <item>
+                  <hi>Will. Wildey.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Hackwell</hi>
+               </item>
+               <item>
+                  <hi>Jo. Bouen</hi>
+               </item>
+               <item>
+                  <hi>Tho. Liddell</hi>
+               </item>
+               <item>
+                  <hi>Rob. Saunders.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Philpot</hi>
+               </item>
+               <item>
+                  <hi>Nath. Chesson</hi>
+               </item>
+               <item>
+                  <hi>Tho. Newman</hi>
+               </item>
+               <item>
+                  <hi>Tho. Squarey</hi>
+               </item>
+               <item>
+                  <hi>James Breck</hi>
+               </item>
+               <item>
+                  <hi>Lawrence Moyer</hi>
+               </item>
+               <item>
+                  <hi>Will. Ounger</hi>
+               </item>
+               <item>
+                  <hi>Tho. Pot</hi>
+               </item>
+               <item>
+                  <hi>Will. Wheatly</hi>
+               </item>
+               <item>
+                  <hi>Rob. Fox.</hi>
+               </item>
+               <item>
+                  <hi>Dan. Morgan</hi>
+               </item>
+               <item>
+                  <hi>Tho. Woods</hi>
+               </item>
+               <item>
+                  <hi>Edmond Tompson</hi>
+               </item>
+               <item>
+                  <hi>Edmond Chapman</hi>
+               </item>
+               <item>
+                  <hi>Jonathan Gibbs</hi>
+               </item>
+               <item>
+                  <hi>George Clark</hi>
+               </item>
+               <item>
+                  <hi>John Oliver</hi>
+               </item>
+               <item>
+                  <hi>Christoph. Mings.</hi>
+               </item>
+               <item>
+                  <hi>Jo. Wood</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Memorandum,</hi> That fifty two of the Subscribers are Commanders of Ships, members of the <hi>Trinity House.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
